@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baee4a6623646a5f824a222919279ec1",
+    "revision": "d885923961b214e96d4ad44be43da307",
     "url": "/pemf/index.html"
   },
   {
-    "revision": "0475416ae196ed4a9cf5",
-    "url": "/pemf/static/css/main.98f540bc.chunk.css"
+    "revision": "2a5244ae880984ff632d",
+    "url": "/pemf/static/css/main.c456df7f.chunk.css"
   },
   {
-    "revision": "0b58bb7fc957183d0fb7",
-    "url": "/pemf/static/js/2.0b62db48.chunk.js"
+    "revision": "9f5b0e8a0a9e14dc67e3",
+    "url": "/pemf/static/js/2.d3fb1947.chunk.js"
   },
   {
     "revision": "b7bdffd4fd4ff576b1a1d037e48d8a27",
-    "url": "/pemf/static/js/2.0b62db48.chunk.js.LICENSE.txt"
+    "url": "/pemf/static/js/2.d3fb1947.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0475416ae196ed4a9cf5",
-    "url": "/pemf/static/js/main.87d0c309.chunk.js"
+    "revision": "2a5244ae880984ff632d",
+    "url": "/pemf/static/js/main.cb350d2b.chunk.js"
   },
   {
     "revision": "43a3b92f0eac2d27ef77",
@@ -28,22 +28,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pemf/static/media/Arrow_skew.79d36998.svg"
   },
   {
-    "revision": "ddfcd2c51dedd595024788384d9e7120",
-    "url": "/pemf/static/media/Castle.ddfcd2c5.svg"
-  },
-  {
-    "revision": "dd512ac3ddbedaf687ecd74929d174f4",
-    "url": "/pemf/static/media/Castle_Desktop.dd512ac3.svg"
-  },
-  {
-    "revision": "4575f05f8fc1b2a3a5a197e98ba23fc3",
-    "url": "/pemf/static/media/Castle_iPad.4575f05f.svg"
-  },
-  {
-    "revision": "a5bb79951170f6a5d400ebe480f48a87",
-    "url": "/pemf/static/media/Castle_iPadPro.a5bb7995.svg"
-  },
-  {
     "revision": "5e866e44a9ac129926997cdfa09be98d",
     "url": "/pemf/static/media/Johannes.5e866e44.png"
   },
@@ -52,12 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pemf/static/media/Logo.13a83dda.svg"
   },
   {
-    "revision": "5ca1f1f1122dc617c307042f150972af",
-    "url": "/pemf/static/media/Mobile_Castle.5ca1f1f1.svg"
-  },
-  {
     "revision": "5dd3dc4cdc5eebf5696abb3c0a8e552d",
     "url": "/pemf/static/media/Ute.5dd3dc4c.png"
+  },
+  {
+    "revision": "668522a1bf2835ba92dd62c6dd39ae50",
+    "url": "/pemf/static/media/foxxu-logo.668522a1.svg"
+  },
+  {
+    "revision": "f0dea631bb7d1d66492408f19217411f",
+    "url": "/pemf/static/media/my-conet.logo.f0dea631.svg"
   },
   {
     "revision": "3383efa206332e1a3ac8bd49aff20946",

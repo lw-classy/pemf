@@ -1,31 +1,29 @@
 {
   "files": {
-    "main.css": "/pemf/static/css/main.98f540bc.chunk.css",
-    "main.js": "/pemf/static/js/main.87d0c309.chunk.js",
-    "main.js.map": "/pemf/static/js/main.87d0c309.chunk.js.map",
+    "main.css": "/pemf/static/css/main.c456df7f.chunk.css",
+    "main.js": "/pemf/static/js/main.cb350d2b.chunk.js",
+    "main.js.map": "/pemf/static/js/main.cb350d2b.chunk.js.map",
     "runtime-main.js": "/pemf/static/js/runtime-main.817d888a.js",
     "runtime-main.js.map": "/pemf/static/js/runtime-main.817d888a.js.map",
-    "static/js/2.0b62db48.chunk.js": "/pemf/static/js/2.0b62db48.chunk.js",
-    "static/js/2.0b62db48.chunk.js.map": "/pemf/static/js/2.0b62db48.chunk.js.map",
+    "static/js/2.d3fb1947.chunk.js": "/pemf/static/js/2.d3fb1947.chunk.js",
+    "static/js/2.d3fb1947.chunk.js.map": "/pemf/static/js/2.d3fb1947.chunk.js.map",
     "index.html": "/pemf/index.html",
-    "precache-manifest.a431aa3066c691e52c6db8458b77fa12.js": "/pemf/precache-manifest.a431aa3066c691e52c6db8458b77fa12.js",
+    "precache-manifest.59bc1df0925d7e0ce9cb428cec67a708.js": "/pemf/precache-manifest.59bc1df0925d7e0ce9cb428cec67a708.js",
     "service-worker.js": "/pemf/service-worker.js",
-    "static/css/main.98f540bc.chunk.css.map": "/pemf/static/css/main.98f540bc.chunk.css.map",
-    "static/js/2.0b62db48.chunk.js.LICENSE.txt": "/pemf/static/js/2.0b62db48.chunk.js.LICENSE.txt",
+    "static/css/main.c456df7f.chunk.css.map": "/pemf/static/css/main.c456df7f.chunk.css.map",
+    "static/js/2.d3fb1947.chunk.js.LICENSE.txt": "/pemf/static/js/2.d3fb1947.chunk.js.LICENSE.txt",
     "static/media/Arrow_skew.79d36998.svg": "/pemf/static/media/Arrow_skew.79d36998.svg",
-    "static/media/Castle.ddfcd2c5.svg": "/pemf/static/media/Castle.ddfcd2c5.svg",
-    "static/media/index.scss": "/pemf/static/media/silka-thin-webfont.d83f2e2d.woff2",
-    "static/media/Castle_iPad.4575f05f.svg": "/pemf/static/media/Castle_iPad.4575f05f.svg",
-    "static/media/Castle_iPadPro.a5bb7995.svg": "/pemf/static/media/Castle_iPadPro.a5bb7995.svg",
     "static/media/Johannes.png": "/pemf/static/media/Johannes.5e866e44.png",
     "static/media/Logo.13a83dda.svg": "/pemf/static/media/Logo.13a83dda.svg",
-    "static/media/Mobile_Castle.5ca1f1f1.svg": "/pemf/static/media/Mobile_Castle.5ca1f1f1.svg",
-    "static/media/Ute.png": "/pemf/static/media/Ute.5dd3dc4c.png"
+    "static/media/Ute.png": "/pemf/static/media/Ute.5dd3dc4c.png",
+    "static/media/foxxu-logo.668522a1.svg": "/pemf/static/media/foxxu-logo.668522a1.svg",
+    "static/media/my-conet.logo.f0dea631.svg": "/pemf/static/media/my-conet.logo.f0dea631.svg",
+    "static/media/index.scss": "/pemf/static/media/silka-thin-webfont.d83f2e2d.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.817d888a.js",
-    "static/js/2.0b62db48.chunk.js",
-    "static/css/main.98f540bc.chunk.css",
-    "static/js/main.87d0c309.chunk.js"
+    "static/js/2.d3fb1947.chunk.js",
+    "static/css/main.c456df7f.chunk.css",
+    "static/js/main.cb350d2b.chunk.js"
   ]
 }
