@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109.605" height="158.854" viewBox="0 0 109.605 158.854">
+  <g id="Gruppe_87" data-name="Gruppe 87" transform="translate(-18560.457 -9580.535)">
+    <g id="Gruppe_86" data-name="Gruppe 86" transform="translate(18561.316 9580.681)">
+      <path id="Pfad_340" data-name="Pfad 340" d="M159.787,192.9h108.6V60.859h-108.6Z" transform="translate(-159.787 -60.841)"/>
+      <path id="Pfad_341" data-name="Pfad 341" d="M159.787,60.855h108.6V192.918h-108.6Z" transform="translate(-159.787 -60.855)" fill="none" stroke="#027abf" stroke-miterlimit="3.864" stroke-width="0.29"/>
+      <g id="Gruppe_84" data-name="Gruppe 84" transform="translate(12.36 12.355)">
+        <path id="Pfad_342" data-name="Pfad 342" d="M162.47,63.537h83.9v22.2h-58v8.661h58v22.2h-58v8.652h58v22.2h-83.9Z" transform="translate(-162.47 -63.537)" fill="#fff"/>
+        <path id="Pfad_343" data-name="Pfad 343" d="M166.3,83.612h8.813a7.442,7.442,0,0,1,0,14.885H166.3Z" transform="translate(-148.641 8.87)" fill="#fff"/>
+        <path id="Pfad_344" data-name="Pfad 344" d="M174.078,83.612h4.593v5.676l5.187-5.676h6.04l-5.855,6.344,6.339,8.541h-5.832l-3.736-5.067-2.147,2.225v2.838h-4.593V83.612Z" transform="translate(-120.62 8.87)" fill="#fff"/>
+        <path id="Pfad_345" data-name="Pfad 345" d="M182.8,83.612h6.855L194.77,98.5h-4.625l-.958-3.063h-5.9L182.276,98.5h-4.593Z" transform="translate(-107.6 8.87)" fill="#fff"/>
+      </g>
+      <g id="Gruppe_85" data-name="Gruppe 85" transform="translate(12.328 104.828)">
+        <path id="Pfad_346" data-name="Pfad 346" d="M179.154,89.366h3.52l-1.764-5.04Z" transform="translate(-102.262 -81.028)"/>
+        <path id="Pfad_347" data-name="Pfad 347" d="M167.3,84.467h3.612a3.51,3.51,0,1,1,0,7.021H167.3Z" transform="translate(-145.02 -80.519)"/>
+        <path id="Pfad_348" data-name="Pfad 348" d="M162.463,83.61h14.885v3.87h-10.3v1.645h10.3V93h-10.3v1.631h10.3v3.874H162.463Z" transform="translate(-162.463 -83.61)" fill="#fff"/>
+        <path id="Pfad_349" data-name="Pfad 349" d="M170.256,83.61h14.9v3.87h-10.3v1.645h10.3V93h-10.3v1.631h10.3v3.874h-14.9Z" transform="translate(-134.355 -83.61)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Südwest" transform="translate(18560.457 9732.39)" font-size="23" font-family="Arial-Black, Arial Black" font-weight="800"><tspan x="0" y="0">Südwest</tspan></text>
+  </g>
+</svg>

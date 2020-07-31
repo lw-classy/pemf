@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "217ac281a3f79787fabac5ecb1509b3a",
+    "revision": "17b9bd9c4f37c081a6549645ad6e145c",
     "url": "/pemf/index.html"
   },
   {
-    "revision": "a8e2538adaf76be5a39b",
-    "url": "/pemf/static/css/main.84f5a349.chunk.css"
+    "revision": "ad47953c7ebe53f420f4",
+    "url": "/pemf/static/css/main.4813d090.chunk.css"
   },
   {
-    "revision": "76718fe43b5f3f925005",
-    "url": "/pemf/static/js/2.c976e231.chunk.js"
+    "revision": "568fc63632f19eafbf4f",
+    "url": "/pemf/static/js/2.226652b5.chunk.js"
   },
   {
     "revision": "81fc4a5d5bd295e7dda24772a5f5a9ff",
-    "url": "/pemf/static/js/2.c976e231.chunk.js.LICENSE.txt"
+    "url": "/pemf/static/js/2.226652b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8e2538adaf76be5a39b",
-    "url": "/pemf/static/js/main.8ee1c9ad.chunk.js"
+    "revision": "ad47953c7ebe53f420f4",
+    "url": "/pemf/static/js/main.7fb2c06c.chunk.js"
   },
   {
     "revision": "43a3b92f0eac2d27ef77",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pemf/static/media/Arrow_skew.79d36998.svg"
   },
   {
-    "revision": "7d2404c18e877d16f3acbe0195aa8122",
-    "url": "/pemf/static/media/Castle.7d2404c1.svg"
+    "revision": "4d78ce756ac8a833dd1b3388a274c840",
+    "url": "/pemf/static/media/Castle.4d78ce75.svg"
   },
   {
     "revision": "5e866e44a9ac129926997cdfa09be98d",
@@ -44,12 +44,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pemf/static/media/Ute.5dd3dc4c.png"
   },
   {
+    "revision": "f60e614363ecdf9319b9109c00741367",
+    "url": "/pemf/static/media/aok.f60e6143.svg"
+  },
+  {
+    "revision": "576d0d36b07027e57eb36ddcaed54d61",
+    "url": "/pemf/static/media/audi.576d0d36.svg"
+  },
+  {
+    "revision": "f57183023c780a35f9cd5e1fcad3e5d4",
+    "url": "/pemf/static/media/bsh.f5718302.svg"
+  },
+  {
+    "revision": "cb021bafe83aa49265a3877672363c85",
+    "url": "/pemf/static/media/daimler.cb021baf.svg"
+  },
+  {
+    "revision": "e2c468c2c6a83e4db71bb221257f4b60",
+    "url": "/pemf/static/media/edeka.e2c468c2.svg"
+  },
+  {
     "revision": "ba596eab8a5a6b1c0a1d3278a789cc53",
     "url": "/pemf/static/media/foxxu-logo.ba596eab.svg"
   },
   {
+    "revision": "92c425f76c06215364853a0244a44411",
+    "url": "/pemf/static/media/generali.92c425f7.svg"
+  },
+  {
+    "revision": "f1093b304596cbd929576f18c40f269f",
+    "url": "/pemf/static/media/leoni.f1093b30.svg"
+  },
+  {
     "revision": "8be3b3db1c8d23b0969cf11177031bc2",
     "url": "/pemf/static/media/my-conet.logo.8be3b3db.svg"
+  },
+  {
+    "revision": "fbcd5f546a8a46b57149b3eebe6706a3",
+    "url": "/pemf/static/media/neff.fbcd5f54.svg"
+  },
+  {
+    "revision": "69cb077c2bf3f6efe754d9765c0dce26",
+    "url": "/pemf/static/media/ohm.69cb077c.svg"
+  },
+  {
+    "revision": "d109f85b4c70cbcc873255f680d3bfe9",
+    "url": "/pemf/static/media/schaefer.d109f85b.svg"
   },
   {
     "revision": "3383efa206332e1a3ac8bd49aff20946",
@@ -178,5 +218,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d83f2e2d5e46d50d28ba4ff970be7940",
     "url": "/pemf/static/media/silka-thin-webfont.d83f2e2d.woff2"
+  },
+  {
+    "revision": "a522c41387ff2bc9ab944b96e733b3db",
+    "url": "/pemf/static/media/skf.a522c413.svg"
+  },
+  {
+    "revision": "8d99bc7fde3f39e60fe092f61b7a212b",
+    "url": "/pemf/static/media/vogeldruck.8d99bc7f.svg"
+  },
+  {
+    "revision": "cfbc96b954c041481887b43164a41d52",
+    "url": "/pemf/static/media/warema.cfbc96b9.svg"
   }
 ]);
